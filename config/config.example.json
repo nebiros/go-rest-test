@@ -1,0 +1,26 @@
+{
+    "development": {
+        "ws": {
+            "auth": {
+                "username": "",
+                "password": ""
+            },
+            "host": "",
+            "endpoint": {
+                "facturacion_lookup_by_client_id": ""
+            }
+        }
+    },
+    "production": {
+        "ws": {
+            "auth": {
+                "username": "",
+                "password": ""
+            },
+            "host": "",
+            "endpoint": {
+                "facturacion_lookup_by_client_id": ""
+            }
+        }
+    }
+}
